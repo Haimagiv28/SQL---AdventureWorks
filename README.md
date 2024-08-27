@@ -1,5 +1,5 @@
 # SQL-AdventureWorks
-## introduction
+## Introduction
 SQL-AdventureWorks is a SQL project i worked on during Data Analyst cousre.
 The project deals with 3 research questions:
   1. Is there seasonality in sales?
