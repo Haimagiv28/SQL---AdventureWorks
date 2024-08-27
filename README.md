@@ -14,7 +14,8 @@ In order to present the data analysis in a beautiful and convenient way, I used 
 You are invited to enter the SQL files to view the analysis of the data, and enter the PowerPoint presentation to view the data analisyst, the conclusions and insights.
 
 ### Similitary Between years - Graph:
-![years](https://github.com/user-attachments/assets/f70ed53e-8a89-49ee-8945-7453d5424cb6)
+![תמונה1](https://github.com/user-attachments/assets/ab98d66a-a424-4968-890c-e3d8939b0552)
+
 
 ### Best-selling products pure profit - Graph :
 ![תמונה12](https://github.com/user-attachments/assets/25d9ae31-2c57-415d-a1d2-71fc7be84653)
