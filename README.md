@@ -8,7 +8,7 @@ The project deals with 3 research questions:
 
 In order to solve the research questions, I used the following tools:
   1. Microsoft SQL server.
-  2. Ecxel.
+  2. Excel.
 
 In order to present the data analysis in a beautiful and convenient way, I used graphs that present the information in a simple and convenient way.
 You are invited to enter the SQL files to view the analysis of the data, and enter the PowerPoint presentation to view the data analisyst, the conclusions and insights.
